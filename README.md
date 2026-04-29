@@ -115,10 +115,4 @@ A prática também mostrou a importância de documentar os aprendizados de forma
 
 ---
 
-## Links Úteis
 
-- https://speech.microsoft.com
-- https://language.cognitive.azure.com
-- https://learn.microsoft.com/pt-br/azure/ai-services/
-- https://github.com/
-- https://www.dio.me/
